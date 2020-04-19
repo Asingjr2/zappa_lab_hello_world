@@ -7,5 +7,4 @@
 ### Requirements
 - AWS account
 - Access to run scripts as administrator/sudo
-- [Python 3.6]("https://www.python.org/downloads/)
-"# zappa_lab_hello_world" 
+- [Python 3.6](https://www.python.org/downloads/)
